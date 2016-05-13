@@ -1,0 +1,51 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[PlDriver]
+MemConfigValue=E:\相关资料\8711\RTL8711-sdk-ameba1-v3[1].4b_ECN_20151106\sdk-ameba1-v3.4b_ECN_20151106\project\realtek_ameba1_va0_example\EWARM-RELEASE\..\..\..\component\soc\realtek\8195a\misc\iar_utility\common\8195a.ddf
+[Jet]
+DisableInterrupts=0
+MultiCoreRunAll=0
+[ArmDriver]
+EnableCache=1
+[JLinkDriver]
+CStepIntDis=_ 0
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[DebugChecksum]
+Checksum=-1782869469
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "vectors.S" ""
+Count=1
+SuppressDialog=0
